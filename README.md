@@ -14,7 +14,7 @@ The main view your are going to build is a listing page (PLP), consisting of 10 
 
 You should build the PLP interface following the specifications of the graphic mockup and populating it consuming [this API endpoint](https://my-json-server.typicode.com/zappyrent/frontend-assessment/properties) through an asyncronous GET call.
 
-The aforementioned endpoint can be filtered: you should then implement the designed filters by passing the appropriate query string to the API call. For example, acting on the "available" filter, you should only show the available apartments. If using the filter (or filters) the call does not return any apartment, you should return a warning message "no properties available for the specified filter".
+The aforementioned endpoint can be filtered: you should then implement the designed filters by passing the appropriate query string to the API call. For example, acting on the "available" filter, you should only show the available apartments. Please note that using the filters the API call may not return any apartment: in this case you should inform the user about it.
 
 The following points will be considered plus:
 - Make sure that the user, by clicking on an item of the PLP, can view the details of that specific apartment in a modal window (a sort of detail page, PDP). This action must correspond to a change in the page url which must be unique for each item of the PLP. Similarly, if I land directly on one of the specific URLs of the apartments, I have to see the modal window already open, without the need for any click.
