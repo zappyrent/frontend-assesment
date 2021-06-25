@@ -16,9 +16,8 @@ You should build the PLP interface following the specifications of the graphic m
 
 The aforementioned endpoint can be filtered: you should then implement the designed filters by passing the appropriate query string to the API call. For example, acting on the "available" filter, you should only show the available apartments. If using the filter (or filters) the call does not return any apartment, you should return a warning message "no properties available for the specified filter".
 
-The third step consists in making sure that the user, by clicking on an item of the PLP, can view the details of that specific apartment in a modal window (a sort of detail page, PDP). This action must correspond to a change in the page url which must be unique for each item of the PLP. Similarly, if I land directly on one of the specific URLs of the apartments, I have to see the modal window already open, without the need for any click.
-
 The following points will be considered plus:
+- Make sure that the user, by clicking on an item of the PLP, can view the details of that specific apartment in a modal window (a sort of detail page, PDP). This action must correspond to a change in the page url which must be unique for each item of the PLP. Similarly, if I land directly on one of the specific URLs of the apartments, I have to see the modal window already open, without the need for any click.
 - Use of TypeScript (strict mode)
 - Writing unit tests for the components created
 
