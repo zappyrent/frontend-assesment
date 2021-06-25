@@ -8,18 +8,22 @@ Our frontend stack is based upon the [React](https://reactjs.org/) ecosystem; we
 
 For this assignment what you are going to build is a single page JavaScript application, preferably with React. You can choose to use another UI library (e.g. Vue) if you feel more confident with it.
 
-## Tasks
+## Description
 
-The main view your are going to build is a listing page (PLP), consisting of 10 property items (apartaments). 
+The user should be able to see a listing page (PLP) of 10 property items (apartaments).
 
-You should build the PLP interface following the specifications of the graphic mockup and populating it consuming [this API endpoint](https://my-json-server.typicode.com/zappyrent/frontend-assessment/properties) through an asyncronous GET call.
-
-The aforementioned endpoint can be filtered: you should then implement the designed filters by passing the appropriate query string to the API call. For example, acting on the "available" filter, you should only show the available apartments. Please note that using the filters the API call may not return any apartment: in this case you should inform the user about it.
+The user should be able to filter the PLP according to the following fields: `available` and `type`. The user should be informed when no apartaments are showed beacuse of filtering options.
 
 The following points will be considered plus:
-- Make sure that the user, by clicking on an item of the PLP, can view the details of that specific apartment in a modal window (a sort of detail page, PDP). This action must correspond to a change in the page url which must be unique for each item of the PLP. Similarly, if I land directly on one of the specific URLs of the apartments, I have to see the modal window already open, without the need for any click.
+
+- The user, clicking on an item of the PLP, should be able to view the details of that specific apartment in a modal window (a sort of detail page, PDP). This action must correspond to a change in the page url which must be unique for each item of the PLP. If the user lands directly on one of the specific URLs of the apartments, one should see the modal window already open, without the need for any click.
 - Use of TypeScript (strict mode)
 - Writing unit tests for the components created
+
+## Assets
+
+- [API endpoint](https://my-json-server.typicode.com/zappyrent/frontend-assessment/properties)
+- [Design mockup](TODO_INSERT_MOCKUP_URI_HERE)
 
 ## Submission
 
