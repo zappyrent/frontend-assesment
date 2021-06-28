@@ -18,6 +18,7 @@
       ],
       "price": 610,
       "currency": "EUR",
+      "title": "Camera luminosissima in Via Mazzini",
       "available": true
     },
     {
@@ -29,7 +30,7 @@
       "street_number": "15",
       "country": "Italy",
       "cap": "20123",
-      "floor": 0,
+      "floor": 9,
       "baths": 1,
       "images": [
         {
@@ -38,6 +39,7 @@
       ],
       "price": 1200,
       "currency": "EUR",
+      "title": "Stupendo attico in Via Olona",
       "available": false
     },
     {
@@ -58,6 +60,7 @@
       ],
       "price": 450,
       "currency": "EUR",
+      "title": "Stanza condivisa in palazzo storico",
       "available": true
     },
     {
@@ -78,6 +81,7 @@
       ],
       "price": 750,
       "currency": "EUR",
+      "title": "Monolocale ricco di personalità in Via Asturie",
       "available": true
     },
     {
@@ -98,6 +102,7 @@
       ],
       "price": 650,
       "currency": "EUR",
+      "title": "Singola luminosa e recentemente arredata, tutti i servizi a due passi",
       "available": false
     },
     {
@@ -118,6 +123,7 @@
       ],
       "price": 480,
       "currency": "EUR",
+      "title": "Stupenda singola in Via Condino a due passi da tutto",
       "available": true
     },
     {
@@ -138,6 +144,7 @@
       ],
       "price": 1480,
       "currency": "EUR",
+      "title": "Appartamento in palazzo storico, Via Quarnero",
       "available": true
     },
     {
@@ -158,6 +165,7 @@
       ],
       "price": 510,
       "currency": "EUR",
+      "title": "Magnifica e luminosissima stanza condivisa in Via Savonarola",
       "available": true
     },
     {
@@ -178,6 +186,7 @@
       ],
       "price": 560,
       "currency": "EUR",
+      "title": "Singola in Via Aristotile Fioravanti",
       "available": true
     },
     {
@@ -198,6 +207,7 @@
       ],
       "price": 610,
       "currency": "EUR",
+      "title": "Stupendo monolocale completamente arredato in Via Principe Eugenio",
       "available": true
     },
     {
@@ -218,6 +228,7 @@
       ],
       "price": 550,
       "currency": "EUR",
+      "title": "Stanza condivisa in appartamento completamente rimodernato di recente",
       "available": false
     },
     {
@@ -238,6 +249,7 @@
       ],
       "price": 1250,
       "currency": "EUR",
+      "title": "Attico in Via Archimede, magnifica vista",
       "available": true
     }
   ]
