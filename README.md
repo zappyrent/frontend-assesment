@@ -6,7 +6,7 @@ Our frontend stack is based upon the [React](https://reactjs.org/) ecosystem; we
 
 ## Introduction
 
-For this assignment what you are going to build is a single page JavaScript application, preferably with React. You can choose to use another UI library (e.g. Vue) if you feel more confident with it.
+For this assignment what you are going to build is a single page JavaScript application, preferably with React. You can choose to use another UI library (e.g. Vue) if you feel more confident with it. You should use a little bit of css and magic 🪄 to create a responsive UI following our designer's mockups.
 
 ## Description
 
