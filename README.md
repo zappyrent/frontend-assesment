@@ -10,7 +10,7 @@ For this assignment what you are going to build is a single page JavaScript appl
 
 ## Description
 
-The user should be able to see a listing page (PLP) of 10 property items (apartaments).
+The user should be able to see a listing page (PLP) of 12 property items (apartaments).
 
 The user should be able to filter the PLP according to the following fields: `available` and `type`. The user should be informed when no apartaments are showed beacuse of filtering options.
 
