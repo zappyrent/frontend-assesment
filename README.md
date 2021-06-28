@@ -23,7 +23,7 @@ The following points will be considered plus:
 ## Assets
 
 - [API endpoint](https://my-json-server.typicode.com/zappyrent/frontend-assessment/properties)
-- [Design mockup](TODO_INSERT_MOCKUP_URI_HERE)
+- [Design mockup](https://github.com/zappyrent/frontend-assessment/tree/main/mockups)
 
 ## Submission
 
