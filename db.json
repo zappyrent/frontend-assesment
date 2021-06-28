@@ -199,6 +199,46 @@
       "price": 610,
       "currency": "EUR",
       "available": true
+    },
+    {
+      "id": 11,
+      "type": "Shared Room",
+      "street": "Viale Giovanni Suzzani",
+      "city": "Milano",
+      "province": "MI",
+      "street_number": "13",
+      "country": "Italy",
+      "cap": "20162",
+      "floor": 4,
+      "baths": 2,
+      "images": [
+        {
+          "url": "https://placeimg.com/1280/960/arch?random=11"
+        }
+      ],
+      "price": 550,
+      "currency": "EUR",
+      "available": false
+    },
+    {
+      "id": 12,
+      "type": "Entire Property",
+      "street": "Via Archimede",
+      "city": "Milano",
+      "province": "MI",
+      "street_number": "42",
+      "country": "Italy",
+      "cap": "20129",
+      "floor": 8,
+      "baths": 2,
+      "images": [
+        {
+          "url": "https://placeimg.com/1280/960/arch?random=12"
+        }
+      ],
+      "price": 1250,
+      "currency": "EUR",
+      "available": true
     }
   ]
 }
