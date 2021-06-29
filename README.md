@@ -20,6 +20,16 @@ The following points will be considered plus:
 - Use of TypeScript (strict mode)
 - Writing unit tests for the components created
 
+## API Specifications
+
+- Endpoint: https://my-json-server.typicode.com/zappyrent/frontend-assessment/properties
+- Method: GET
+
+### Query string parameters
+
+- `available`: true | false
+- `type`: 'Private Room' | 'Shared Room' | 'Entire Property' | 'Studio'
+
 ## Assets
 
 - [API endpoint](https://my-json-server.typicode.com/zappyrent/frontend-assessment/properties)
